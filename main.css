@@ -1,0 +1,13 @@
+html {
+    font-family: 'Bubbler One', sans-serif;
+}
+
+#game {
+    margin:5px;
+}
+*{
+    margin:0px;
+}
+#title{
+    text-align: center;
+}
